@@ -1,0 +1,28 @@
+/* Simple CSS example */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #7a87ea; /* light gray background */
+  color: #ea1d1d; /* dark text */
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: #f0f6f2; /* blue heading */
+  text-align: center;
+}
+
+button {
+  background-color: #6daaeb; /* blue button */
+  color: rgb(251, 6, 149);
+  border: none;
+  padding: 8px 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3; /* darker blue on hover */
+}
